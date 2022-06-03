@@ -1,8 +1,8 @@
 {
     "name": "Sigma Pharmacueticals",
     "short_name": "Sigma", 
-    "start_url": "/",
-    "id": "/",
+    "start_url": "/Lab-2/",
+    "id": "/Lab-2/",
     "description": "Sigma Pharma",
     "display": "standalone",
     "icons": [
